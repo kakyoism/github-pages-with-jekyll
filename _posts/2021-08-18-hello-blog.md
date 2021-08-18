@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to Jekyll!"
-date: YYYY-MM-DD
+date: 2021-08-18
 ---
 
 # My First Github Pages Blog via Jekyll 
